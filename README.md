@@ -41,6 +41,8 @@ To install Sass, install Ruby and the gem command using your distribution's pack
 
 You'll also need the ```glib-compile-schemas``` and  ```gdk-pixbuf-pixdata``` commands in your path to generate the gresource binary. Install them using your distribution's package manager.
 
+To generate assets ```inkscape``` and ```optipng``` are required.
+
 #### Debian, Ubuntu
 
  ```sh
